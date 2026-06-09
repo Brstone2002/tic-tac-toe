@@ -1,1 +1,1 @@
-# tic-tac-toe
+tic-tac-toe game made for the odin project. 
